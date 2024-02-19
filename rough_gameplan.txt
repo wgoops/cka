@@ -1,0 +1,26 @@
+More concrete plans: 
+
+1a. Do the bone song + vocab shuffle for https://kubernetes.io/docs/tutorials/stateless-application/guestbook/ 
+    - be extremely thorough so that you will escape tutorial hell-- literally make notes on every single part, do diagrams, etc.
+1b. Study The Kubernetes Book chapters 1 through 6.
+
+Notes should be done with pen and paper or else you will forget them bud.
+
+
+I need a couple of things: 
+
+
+1. Set up little environment for playing around. This shouldn't take more than one weekend.
+2. Figure out a little goal. Achieve that little goal. It shouldn't take more than a weekend or two.
+    2a. if you go and install a whole preconfigured thing, you should take some time to study it a bit.
+        example of a couple: https://github.com/kubernetes/examples?tab=readme-ov-file 
+
+        
+3. Study a course. You should try to finish the course within two weeks (ex. https://www.youtube.com/watch?v=X48VuDVv0do, and The Kubernetes Book)
+4. Begin breaking down a more complex tutorial (ex. https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/01-prerequisites.md)
+
+Reassess where you're at and go from there.
+
+
+
+
